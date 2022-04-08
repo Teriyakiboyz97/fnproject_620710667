@@ -54,7 +54,7 @@ class Roman extends StatelessWidget {
                           enabledBorder: OutlineInputBorder(
                             borderSide: BorderSide(color: Colors.yellow,width: 3.0),
                           ),
-                          hintText: 'ใส่เลขโรมันตรงนี้',
+                          hintText: 'ใส่เลขโรมันตรงนี้I-MMMCMXCIX',
                         ),
                       ),
                     ),

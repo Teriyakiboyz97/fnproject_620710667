@@ -52,7 +52,7 @@ class Arabic extends StatelessWidget {
                           enabledBorder: OutlineInputBorder(
                             borderSide: BorderSide(color: Colors.yellow,width: 3.0),
                           ),
-                          hintText: 'ใส่เลขอารบิกตรงนี้',
+                          hintText: 'ใส่เลขอารบิกตรงนี้1-3999',
                         ),
                       ),
                     ),
